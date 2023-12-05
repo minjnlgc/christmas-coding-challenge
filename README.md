@@ -1,1 +1,3 @@
-# christmas-coding-challenge
+### christmas-coding-challenge
+
+Try to do lc questions (also other stuffs if possible) for 25 days...
